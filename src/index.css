@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+section {
+  width: 100%;
+  overflow: hidden;
+}
+
+/*.svg-map {*/
+/*  width: 100%;*/
+/*  height: auto;*/
+/*  stroke: #666;*/
+/*  stroke-width: 1;*/
+/*  stroke-linecap: round;*/
+/*  stroke-linejoin: round;*/
+/*}*/
+
+/*.svg-map__location {*/
+/*  fill: #a1d99b;*/
+/*  cursor: pointer;*/
+/*}*/
+
+/*.svg-map__location:hover {*/
+/*  transition: all 0.2s;*/
+/*  opacity: 0.5;*/
+/*}*/
